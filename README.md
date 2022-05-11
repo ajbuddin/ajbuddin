@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajbuddin I am not a good coder and
 - 👀 I’m not interested in front end development 
 - 🌱 I’m currently learning html css and js
-- 💞️ I’m looking to collaborate on how live a life peacfully
+- 💞️ I’m looking to collaborate on how live a life peacefully
 - 📫 How to reach me 📧 
 
 <!---
